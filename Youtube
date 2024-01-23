@@ -33,8 +33,6 @@
 0.0.0.0 uk.youtube.com
 0.0.0.0 upload.youtube.com
 0.0.0.0 youtube.com
-
-[Adblock Plus 2.0]
 ||accounts.youtube.com^
 ||accounts.youtube.com^$popup
 ||accounts.youtube.com^$third-party
@@ -140,7 +138,6 @@
 ||youtube.com^
 ||youtube.com^$popup
 ||youtube.com^$third-party
-
 ::1 accounts.youtube.com
 ::1 admin-dev.youtube.com
 ::1 admin.youtube.com
